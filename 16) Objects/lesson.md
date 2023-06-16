@@ -108,4 +108,10 @@
 
 </details>
 
+<br>
+
+### Qo'shimcha foydalanish uchun sayt: 👇
+
+[<img src="./images/object_site.png" alt="object">](https://www.programiz.com/javascript/object)
+
 </details>

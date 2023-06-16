@@ -153,7 +153,11 @@
 
 </details>
 
+<br>
 
+### Qo'shimcha foydalanish uchun sayt: 👇
+
+[<img src="./images/array.png" alt="array">](https://www.programiz.com/javascript/array)
 
 </details>
 

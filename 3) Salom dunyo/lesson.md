@@ -18,10 +18,6 @@
 </details>
 
 <details>
-    <summary>Online IDE</summary>
-</details>
-
-<details>
     <summary>JavaScript fayl ulash</summary>
 
 <br>

@@ -62,4 +62,17 @@
 <br>
 <img src="./images/jsversions.png" alt="jsversions">
 
+<br>
+
+### Qo'shimcha foydalanish uchun sayt: 👇
+
+
+[<img src="./images/javascript_version.png" alt="js version sayt">](https://www.w3schools.com/js/js_versions.asp)
+
+<br>
+
+### Java != JavaScript
+
+> <br>❗JavaScript Netspace ning Java appletlarini qo'llab quvvatlashidan kelib chiqqan. Ko'plar bu nomni marketing uchun yurish deb ham atashadi va shu orqali o'sha davrda juda mashhur bo'lgan Java dasturlash tilidan foydalanib, e'tibor tortishga urinishgan deb aytiladi <br><br>
+
 </details>

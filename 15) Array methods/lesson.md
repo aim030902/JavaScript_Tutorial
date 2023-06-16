@@ -27,6 +27,15 @@
 
 <br>
 
+### Qo'shimcha foydalanish uchun saytlar: 👇
+
+[<img src="./images/array-1.png" alt="array-1">](https://www.w3schools.com/jsref/jsref_obj_array.asp)
+
+<br>
+
+[<img src="./images/array-2.png" alt="array-2">](https://www.programiz.com/javascript/array)
+
+
 Misollar:
 
 ````javascript

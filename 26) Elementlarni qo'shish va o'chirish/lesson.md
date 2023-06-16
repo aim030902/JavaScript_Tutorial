@@ -59,10 +59,53 @@ Misol:
 
 > <br> 💡 DOM API orqali berilgan node elementlarning parent(ota-ona) va child(farzand) elementlarini ko'rish imkoniyati mavjud ekan. Parentni ajratib olish uchun berilgan elementning <span style="color:coral">parentElement</span> yoki <span style="color:coral">parentNode</span> attributiga murojaat qilishimiz mumkin. Childlarni ko'rish uchun esa <span style="color:coral">children</span> yoki <span style="color:coral">childNodes</span> attributiga murojaat qilishimiz mumkin. <br><br>
 
+<br>
 
+### Umumiy ko'rinishi:
+
+````javascript
+    const element = document.getElementById('elementId');
+
+    element.parentElement;
+    element.children;
+
+    ----------
+
+    element.parentNode;
+    element.childNodes;
+````
+
+<br>
+
+### Misol:
+
+````javascript
+    const main = document.getElementById('main');
+
+    console.log(main.parentElement);
+    console.log(main.children);
+````
 
 </details>
 
 <details>
     <summary>Element o'chirish</summary>
+
+> <br> 💡 JavaScript dasturlash tilida DOM API ning <span style="color: coral;">remove()</span>  methodini chaqirish orqali ko'rsatilgan elementni DOM dan olib tashlash imkoni mavjud<br><br>
+
+<br>
+
+### Umumiy ko'rinishi:
+
+````javascript
+    element.remove();
+````
+
+<br>
+
+````javascript
+    const paragraph = document.getElementById('elementId');
+    paragraph.remove();
+````
+
 </details>

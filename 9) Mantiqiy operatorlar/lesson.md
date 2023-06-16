@@ -118,4 +118,8 @@ Mashq:
     console.log(message);
 ````    
 
+<br>
+
+[<img src="./images/operators.png" alt="operators">](https://www.programiz.com/javascript/comparison-logical)
+
 </details>

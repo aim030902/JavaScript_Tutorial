@@ -41,4 +41,10 @@
     console.log(message);
 ````
 
+<br>
+
+### Qo'shimcha foydalanish uchun sayt: 👇
+
+[<img src="./images/string.png" alt="string">](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
 </details>
